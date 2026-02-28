@@ -1,2 +1,2 @@
-text
-text2
+This is text file
+text1
