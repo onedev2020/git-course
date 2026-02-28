@@ -1,4 +1,4 @@
 == text0 ==
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur, unde.
 
-EndPoint
+EndPoint Fixed
